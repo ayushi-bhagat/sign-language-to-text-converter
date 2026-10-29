@@ -1,0 +1,14 @@
+{
+  "logistic_regression": {
+    "cv_macro_f1": 0.0,
+    "std_cv_score": 0.0,
+    "fit_time_seconds": 0.01,
+    "best_params": {}
+  },
+  "knn": {
+    "cv_macro_f1": 0.0,
+    "std_cv_score": 0.0,
+    "fit_time_seconds": 0.0,
+    "best_params": {}
+  }
+}
